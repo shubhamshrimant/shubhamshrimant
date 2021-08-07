@@ -19,7 +19,7 @@
  -->
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-In the next few weeks, I'll change my functional code to OOP and also update documentations, so you may see less new work until mid August!
+In the next few weeks, I'll change my functional code to OOP and also update documentations + few certifications, so you may see less new work until mid August!
   
 - 🔭 I’m currently working on Some interesting projects.
 

@@ -5,7 +5,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamshrimant.shubhamshrimant)
+<!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamshrimant.shubhamshrimant) -->
 <!-- ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Rohit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />

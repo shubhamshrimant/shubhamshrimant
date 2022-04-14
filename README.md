@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2020/04/11/18/05/red-matrix-5031496_960_720.jpg" alt="cover" />
 </div> -->
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 <!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamshrimant.shubhamshrimant) -->

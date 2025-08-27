@@ -15,7 +15,7 @@
   
 - 🔭 I’m currently working on Some interesting projects.
 
-- 🌱 I’m currently learning Data Science,  Front End Technologies 
+- 🌱 I’m currently learning Apache airflow,  Smowflake. 
 
 - 👯 I’m looking to collaborate on Projects 
 

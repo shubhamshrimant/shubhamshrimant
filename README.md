@@ -15,7 +15,7 @@
   
 - 🔭 I’m currently working on Some interesting projects.
 
-- 🌱 I’m currently learning Apache airflow,  Smowflake. 
+- 🌱 I’m currently learning Apache airflow, Unity Catalog. 
 
 - 👯 I’m looking to collaborate on Projects 
 
